@@ -2,37 +2,545 @@
 - added: 8
   cycles: 1
   error:
-  - 'GET https://api.github.com/repos/objectionary/eo-graphs: 401 - Bad credentials
-    // See: https://docs.github.com/rest'
-  - 'GET https://api.github.com/repos/objectionary/eo-hamcrest: 401 - Bad credentials
-    // See: https://docs.github.com/rest'
-  - 'GET https://api.github.com/repos/objectionary/jeo-maven-plugin: 401 - Bad credentials
-    // See: https://docs.github.com/rest'
-  - 'GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 401 - Bad credentials
-    // See: https://docs.github.com/rest'
-  - 'GET https://api.github.com/repos/objectionary/sodg.rs: 401 - Bad credentials
-    // See: https://docs.github.com/rest'
-  - 'GET https://api.github.com/repos/objectionary/opeo-maven-plugin/issues?per_page=100&since=%3E2026-04-25:
+  - 'GET https://api.github.com/repos/objectionary/aoi: 401 - Bad credentials // See:
+    https://docs.github.com/rest'
+  - 'GET https://api.github.com/repos/objectionary/phino: 401 - Bad credentials //
+    See: https://docs.github.com/rest'
+  - undefined method `+' for nil
+  - 'GET https://api.github.com/search/issues?per_page=100&q=repo%3Aobjectionary%2Feo-http+type%3Aissue+created%3A2026-04-25..2026-04-25:
+    401 - Bad credentials // See: https://docs.github.com/rest'
+  - 'GET https://api.github.com/repos/objectionary/eolang.sty/pulls/132/reviews?per_page=100:
     401 - Bad credentials // See: https://docs.github.com/rest'
   removed: 8
-  seconds: 13.803564571
+  seconds: 20.025413198
   version: 0.31.0
   what: judges-summary
-  when: 2026-05-23 13:00:08.993729827 Z
+  when: 2026-05-23 14:40:23.873103274 Z
 - _id: 1
-  _time: 2026-05-23 12:59:55.528701172 Z
+  _time: 2026-05-23 14:40:04.190866322 Z
   _version: 0.4.0/0.31.0/
   what: dimensions-of-terrain
-  when: 2026-05-23 12:59:55.528836745 Z
+  when: 2026-05-23 14:40:04.190976307 Z
 - _id: 2
-  _time: 2026-05-23 13:00:06.992327905 Z
+  _time: 2026-05-23 14:40:17.325697682 Z
   _version: 0.4.0/0.31.0/
-  since: 2026-04-25 13:00:06.992487523 Z
-  what: quality-of-service
-  when: 2026-05-23 13:00:06.992448500 Z
+  commit: ef4590f6184eb4ceab1f5346cb05dec33a026449
+  default_branch: master
+  details: 'A new Git push #34300138734 has arrived to objectionary/eolang-paper,
+    made by @maxonfjvipon (default branch is ''master''), not associated with any
+    pull request.'
+  event_id: 12009523263
+  event_type: PushEvent
+  is_human: 1
+  push_id: 34300138734
+  ref: refs/heads/master
+  repository: 1239730762
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-18 11:30:50.000000000 Z
+  where: github
+  who: 37025995
 - _id: 3
-  _time: 2026-05-23 13:00:07.505573594 Z
+  _time: 2026-05-23 14:40:17.711193665 Z
   _version: 0.4.0/0.31.0/
-  since: 2026-04-25 13:00:07.505779048 Z
+  commit: 8b82f4cf015487d55e6af95ebebb51a2f6e8e4e7
+  default_branch: master
+  details: 'A new Git push #34296341027 has arrived to objectionary/eolang-paper,
+    made by @maxonfjvipon (default branch is ''master''), not associated with any
+    pull request.'
+  event_id: 12005725393
+  event_type: PushEvent
+  is_human: 1
+  push_id: 34296341027
+  ref: refs/heads/master
+  repository: 1239730762
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-18 10:00:26.000000000 Z
+  where: github
+  who: 37025995
+- _id: 4
+  _time: 2026-05-23 14:40:17.943033663 Z
+  _version: 0.4.0/0.31.0/
+  commit: c65674748e080003ce6fbc643177b862e7c3b009
+  default_branch: master
+  details: 'A new Git push #34262390983 has arrived to objectionary/eolang-paper,
+    made by @maxonfjvipon (default branch is ''master''), not associated with any
+    pull request.'
+  event_id: 11971753548
+  event_type: PushEvent
+  is_human: 1
+  push_id: 34262390983
+  ref: refs/heads/master
+  repository: 1239730762
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-17 12:51:43.000000000 Z
+  where: github
+  who: 37025995
+- _id: 5
+  _time: 2026-05-23 14:40:18.198509657 Z
+  _version: 0.4.0/0.31.0/
+  commit: bad1c979760c8c27c7f112a3d68e6e7f0373c5de
+  default_branch: master
+  details: 'A new Git push #34262276172 has arrived to objectionary/eolang-paper,
+    made by @maxonfjvipon (default branch is ''master''), not associated with any
+    pull request.'
+  event_id: 11971638632
+  event_type: PushEvent
+  is_human: 1
+  push_id: 34262276172
+  ref: refs/heads/master
+  repository: 1239730762
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-17 12:47:00.000000000 Z
+  where: github
+  who: 37025995
+- _id: 6
+  _time: 2026-05-23 14:40:18.481722639 Z
+  _version: 0.4.0/0.31.0/
+  commit: 5e1176438aac593122fe0cbe9544f6bc229e49c1
+  default_branch: master
+  details: 'A new Git push #34261634384 has arrived to objectionary/eolang-paper,
+    made by @maxonfjvipon (default branch is ''master''), not associated with any
+    pull request.'
+  event_id: 11970996118
+  event_type: PushEvent
+  is_human: 1
+  push_id: 34261634384
+  ref: refs/heads/master
+  repository: 1239730762
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-17 12:19:24.000000000 Z
+  where: github
+  who: 37025995
+- _id: 7
+  _time: 2026-05-23 14:40:18.791874681 Z
+  _version: 0.4.0/0.31.0/
+  commit: acb5d6b6bb9934bb838c8c8ab881ed3fc7754521
+  default_branch: master
+  details: 'A new Git push #34199129692 has arrived to objectionary/eolang-paper,
+    made by @maxonfjvipon (default branch is ''master''), not associated with any
+    pull request.'
+  event_id: 11908505543
+  event_type: PushEvent
+  is_human: 1
+  push_id: 34199129692
+  ref: refs/heads/master
+  repository: 1239730762
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-15 14:54:24.000000000 Z
+  where: github
+  who: 37025995
+- _id: 8
+  _time: 2026-05-23 14:40:19.026046760 Z
+  _version: 0.4.0/0.31.0/
+  commit: 473d38b0fe5f70aaa3e0e0647e5e3b95e83ad580
+  default_branch: master
+  details: 'A new Git push #34199032689 has arrived to objectionary/eolang-paper,
+    made by @maxonfjvipon (default branch is ''master''), not associated with any
+    pull request.'
+  event_id: 11908408446
+  event_type: PushEvent
+  is_human: 1
+  push_id: 34199032689
+  ref: refs/heads/master
+  repository: 1239730762
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-15 14:52:06.000000000 Z
+  where: github
+  who: 37025995
+- _id: 9
+  _time: 2026-05-23 14:40:19.325140007 Z
+  _version: 0.4.0/0.31.0/
+  commit: e5357b0f10e8165d3007111b052e82840066bb58
+  default_branch: master
+  details: 'A new Git push #34198807793 has arrived to objectionary/eolang-paper,
+    made by @maxonfjvipon (default branch is ''master''), not associated with any
+    pull request.'
+  event_id: 11908182841
+  event_type: PushEvent
+  is_human: 1
+  push_id: 34198807793
+  ref: refs/heads/master
+  repository: 1239730762
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-15 14:46:49.000000000 Z
+  where: github
+  who: 37025995
+- _id: 10
+  _time: 2026-05-23 14:40:19.623816442 Z
+  _version: 0.4.0/0.31.0/
+  latest: 12009523263
+  repository: 1239730762
+  what: events-were-scanned
+  where: github
+- _id: 11
+  _time: 2026-05-23 14:40:20.041285364 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490221501
+  what: events-were-scanned
+  where: github
+- _id: 12
+  _time: 2026-05-23 14:40:20.648726769 Z
+  _version: 0.4.0/0.31.0/
+  commit: 5bd8940bcb50f1004b6cb92f12222e3a7d3cd7ea
+  default_branch: master
+  details: 'A new Git push #33730145225 has arrived to objectionary/eolang.sty, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 11438845664
+  event_type: PushEvent
+  is_human: 1
+  push_id: 33730145225
+  ref: refs/heads/master
+  repository: 546194972
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-05 13:19:47.000000000 Z
+  where: github
+  who: 526301
+- _id: 13
+  _time: 2026-05-23 14:40:21.039720989 Z
+  _version: 0.4.0/0.31.0/
+  commit: 36bd804d74bfc93e45e8a2f3416105e5de9b547d
+  default_branch: master
+  details: 'A new Git push #33729461988 has arrived to objectionary/eolang.sty, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 11438159782
+  event_type: PushEvent
+  is_human: 1
+  push_id: 33729461988
+  ref: refs/heads/master
+  repository: 546194972
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-05 13:05:16.000000000 Z
+  where: github
+  who: 526301
+- _id: 14
+  _time: 2026-05-23 14:40:21.340627282 Z
+  _version: 0.4.0/0.31.0/
+  commit: b285d08cd43017013aad46da52ab5766d8e504f0
+  default_branch: master
+  details: 'A new Git push #33717957575 has arrived to objectionary/eolang.sty, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 11426654777
+  event_type: PushEvent
+  is_human: 1
+  push_id: 33717957575
+  ref: refs/heads/master
+  repository: 546194972
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-05 08:14:34.000000000 Z
+  where: github
+  who: 526301
+- _id: 15
+  _time: 2026-05-23 14:40:21.624813356 Z
+  _version: 0.4.0/0.31.0/
+  commit: 1b51c94b33c74f78556590b0618c447613c637de
+  default_branch: master
+  details: 'A new Git push #33713122213 has arrived to objectionary/eolang.sty, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 11421822648
+  event_type: PushEvent
+  is_human: 1
+  push_id: 33713122213
+  ref: refs/heads/master
+  repository: 546194972
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-05 05:46:07.000000000 Z
+  where: github
+  who: 526301
+- _id: 16
+  _time: 2026-05-23 14:40:22.179610262 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 784310467
+  what: labels-were-scanned
+  where: github
+- _id: 17
+  _time: 2026-05-23 14:40:22.182192051 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 977982682
+  what: labels-were-scanned
+  where: github
+- _id: 18
+  _time: 2026-05-23 14:40:22.184778076 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 570457023
+  what: labels-were-scanned
+  where: github
+- _id: 19
+  _time: 2026-05-23 14:40:22.187464542 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 840332960
+  what: labels-were-scanned
+  where: github
+- _id: 20
+  _time: 2026-05-23 14:40:22.190485261 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 970961472
+  what: labels-were-scanned
+  where: github
+- _id: 21
+  _time: 2026-05-23 14:40:22.192955151 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 519246071
+  what: labels-were-scanned
+  where: github
+- _id: 22
+  _time: 2026-05-23 14:40:22.195435066 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490221501
+  what: labels-were-scanned
+  where: github
+- _id: 23
+  _time: 2026-05-23 14:40:22.197986569 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501942888
+  what: labels-were-scanned
+  where: github
+- _id: 24
+  _time: 2026-05-23 14:40:22.200598333 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 396732517
+  what: labels-were-scanned
+  where: github
+- _id: 25
+  _time: 2026-05-23 14:40:22.203507585 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 519299365
+  what: labels-were-scanned
+  where: github
+- _id: 26
+  _time: 2026-05-23 14:40:22.208694617 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 482612876
+  what: labels-were-scanned
+  where: github
+- _id: 27
+  _time: 2026-05-23 14:40:22.212265224 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 721146770
+  what: labels-were-scanned
+  where: github
+- _id: 28
+  _time: 2026-05-23 14:40:22.215406365 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 447446664
+  what: labels-were-scanned
+  where: github
+- _id: 29
+  _time: 2026-05-23 14:40:22.218907759 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 551486781
+  what: labels-were-scanned
+  where: github
+- _id: 30
+  _time: 2026-05-23 14:40:22.222250543 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 731516758
+  what: labels-were-scanned
+  where: github
+- _id: 31
+  _time: 2026-05-23 14:40:22.226110838 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 13623548
+  what: labels-were-scanned
+  where: github
+- _id: 32
+  _time: 2026-05-23 14:40:22.230450063 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 492899189
+  what: labels-were-scanned
+  where: github
+- _id: 33
+  _time: 2026-05-23 14:40:22.234130286 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 552394123
+  what: labels-were-scanned
+  where: github
+- _id: 34
+  _time: 2026-05-23 14:40:22.237348272 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 510082372
+  what: labels-were-scanned
+  where: github
+- _id: 35
+  _time: 2026-05-23 14:40:22.240609073 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1219806055
+  what: labels-were-scanned
+  where: github
+- _id: 36
+  _time: 2026-05-23 14:40:22.244320073 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 493235807
+  what: labels-were-scanned
+  where: github
+- _id: 37
+  _time: 2026-05-23 14:40:22.248019244 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 543969974
+  what: labels-were-scanned
+  where: github
+- _id: 38
+  _time: 2026-05-23 14:40:22.251770454 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501259435
+  what: labels-were-scanned
+  where: github
+- _id: 39
+  _time: 2026-05-23 14:40:22.255592550 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 489321585
+  what: labels-were-scanned
+  where: github
+- _id: 40
+  _time: 2026-05-23 14:40:22.263278226 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1037933692
+  what: labels-were-scanned
+  where: github
+- _id: 41
+  _time: 2026-05-23 14:40:22.267328726 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490157985
+  what: labels-were-scanned
+  where: github
+- _id: 42
+  _time: 2026-05-23 14:40:22.271265836 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574534248
+  what: labels-were-scanned
+  where: github
+- _id: 43
+  _time: 2026-05-23 14:40:22.275485301 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1212532113
+  what: labels-were-scanned
+  where: github
+- _id: 44
+  _time: 2026-05-23 14:40:22.279695201 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 531151981
+  what: labels-were-scanned
+  where: github
+- _id: 45
+  _time: 2026-05-23 14:40:22.283780154 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 889819508
+  what: labels-were-scanned
+  where: github
+- _id: 46
+  _time: 2026-05-23 14:40:22.287944175 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 568705267
+  what: labels-were-scanned
+  where: github
+- _id: 47
+  _time: 2026-05-23 14:40:22.291904710 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 73056727
+  what: labels-were-scanned
+  where: github
+- _id: 48
+  _time: 2026-05-23 14:40:22.295820007 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 499536612
+  what: labels-were-scanned
+  where: github
+- _id: 49
+  _time: 2026-05-23 14:40:22.299778860 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 955159947
+  what: labels-were-scanned
+  where: github
+- _id: 50
+  _time: 2026-05-23 14:40:22.303843712 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 546194972
+  what: labels-were-scanned
+  where: github
+- _id: 51
+  _time: 2026-05-23 14:40:22.311810040 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1049128198
+  what: labels-were-scanned
+  where: github
+- _id: 52
+  _time: 2026-05-23 14:40:22.316715388 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 671896902
+  what: labels-were-scanned
+  where: github
+- _id: 53
+  _time: 2026-05-23 14:40:22.321652624 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1239730762
+  what: labels-were-scanned
+  where: github
+- _id: 54
+  _time: 2026-05-23 14:40:22.326462027 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574459304
+  what: labels-were-scanned
+  where: github
+- _id: 55
+  _time: 2026-05-23 14:40:22.330922115 Z
+  _version: 0.4.0/0.31.0/
+  since: 2026-04-25 14:40:22.331005180 Z
+  what: quality-of-service
+  when: 2026-05-23 14:40:22.330983507 Z
+- _id: 56
+  _time: 2026-05-23 14:40:22.536576533 Z
+  _version: 0.4.0/0.31.0/
+  since: 2026-04-25 14:40:22.536669032 Z
   what: quantity-of-deliverables
-  when: 2026-05-23 13:00:07.505727181 Z
+  when: 2026-05-23 14:40:22.536647119 Z
