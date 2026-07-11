@@ -1,627 +1,1863 @@
 ---
 - added: 8
   cycles: 1
-  error: undefined method `[]' for nil
+  error: 'GET https://api.github.com/user/9535539: 502 - Server Error'
   removed: 8
-  seconds: 559.709539361
+  seconds: 560.493456258
   version: 0.31.0
   what: judges-summary
-  when: 2026-07-11 14:27:39.904650122 Z
+  when: 2026-07-11 15:53:47.386234870 Z
 - _id: 1
-  _time: 2026-07-11 14:21:11.228914862 Z
+  _time: 2026-07-11 15:47:03.284484895 Z
   _version: 0.4.0/0.31.0/
   total_active_contributors: 28
   total_commits: 51612
+  total_contributors: 513
   total_files: 14761
+  total_forks: 468
   total_issues: 4930
   total_pulls: 9645
+  total_releases: 922
+  total_repositories: 39
+  total_stars: 1791
   what: dimensions-of-terrain
-  when: 2026-07-11 14:18:20.512689075 Z
+  when: 2026-07-11 15:44:27.202558504 Z
 - _id: 2
-  _time: 2026-07-11 14:21:36.200968289 Z
+  _time: 2026-07-11 15:47:19.701797144 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 519246071
+  repository: 490221501
   what: min-issue-was-found
   where: github
 - _id: 3
-  _time: 2026-07-11 14:21:36.205741793 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1037933692
-  what: min-issue-was-found
-  where: github
-- _id: 4
-  _time: 2026-07-11 14:21:36.208662492 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 552394123
-  what: min-issue-was-found
-  where: github
-- _id: 5
-  _time: 2026-07-11 14:21:36.211458357 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 519299365
-  what: min-issue-was-found
-  where: github
-- _id: 6
-  _time: 2026-07-11 14:21:36.215499317 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1049128198
-  what: min-issue-was-found
-  where: github
-- _id: 7
-  _time: 2026-07-11 14:21:36.223102679 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 531151981
-  what: min-issue-was-found
-  where: github
-- _id: 8
-  _time: 2026-07-11 14:21:36.225578002 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1219806055
-  what: min-issue-was-found
-  where: github
-- _id: 9
-  _time: 2026-07-11 14:21:36.228056602 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 889819508
-  what: min-issue-was-found
-  where: github
-- _id: 10
-  _time: 2026-07-11 14:21:36.230622705 Z
+  _time: 2026-07-11 15:47:19.704089407 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 1239730762
   what: min-issue-was-found
   where: github
-- _id: 11
-  _time: 2026-07-11 14:21:36.233179060 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 551486781
-  what: min-issue-was-found
-  where: github
-- _id: 12
-  _time: 2026-07-11 14:21:36.235750724 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 546194972
-  what: min-issue-was-found
-  where: github
-- _id: 13
-  _time: 2026-07-11 14:21:36.238396618 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 73056727
-  what: min-issue-was-found
-  where: github
-- _id: 14
-  _time: 2026-07-11 14:21:36.241090291 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 568705267
-  what: min-issue-was-found
-  where: github
-- _id: 15
-  _time: 2026-07-11 14:21:36.243809611 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 501942888
-  what: min-issue-was-found
-  where: github
-- _id: 16
-  _time: 2026-07-11 14:21:36.246582162 Z
+- _id: 4
+  _time: 2026-07-11 15:47:19.706381068 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 501259435
   what: min-issue-was-found
   where: github
-- _id: 17
-  _time: 2026-07-11 14:21:36.249444762 Z
+- _id: 5
+  _time: 2026-07-11 15:47:19.708737130 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 543969974
+  what: min-issue-was-found
+  where: github
+- _id: 6
+  _time: 2026-07-11 15:47:19.711072293 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1260338737
+  what: min-issue-was-found
+  where: github
+- _id: 7
+  _time: 2026-07-11 15:47:19.713475132 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 492899189
+  what: min-issue-was-found
+  where: github
+- _id: 8
+  _time: 2026-07-11 15:47:19.715943756 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 671896902
+  what: min-issue-was-found
+  where: github
+- _id: 9
+  _time: 2026-07-11 15:47:19.718400948 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 510082372
+  what: min-issue-was-found
+  where: github
+- _id: 10
+  _time: 2026-07-11 15:47:19.720946105 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 721146770
+  what: min-issue-was-found
+  where: github
+- _id: 11
+  _time: 2026-07-11 15:47:19.723493766 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 970961472
+  what: min-issue-was-found
+  where: github
+- _id: 12
+  _time: 2026-07-11 15:47:19.727432489 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1049128198
+  what: min-issue-was-found
+  where: github
+- _id: 13
+  _time: 2026-07-11 15:47:19.730140361 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 552394123
+  what: min-issue-was-found
+  where: github
+- _id: 14
+  _time: 2026-07-11 15:47:19.732919026 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 499536612
   what: min-issue-was-found
   where: github
-- _id: 18
-  _time: 2026-07-11 14:21:36.252292233 Z
+- _id: 15
+  _time: 2026-07-11 15:47:19.735771640 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 977982682
+  repository: 840332960
+  what: min-issue-was-found
+  where: github
+- _id: 16
+  _time: 2026-07-11 15:47:19.738613865 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 482612876
+  what: min-issue-was-found
+  where: github
+- _id: 17
+  _time: 2026-07-11 15:47:19.745366900 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 447446664
+  what: min-issue-was-found
+  where: github
+- _id: 18
+  _time: 2026-07-11 15:47:19.751025410 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 519246071
   what: min-issue-was-found
   where: github
 - _id: 19
-  _time: 2026-07-11 14:21:36.255245954 Z
+  _time: 2026-07-11 15:47:19.756020946 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 490157985
   what: min-issue-was-found
   where: github
 - _id: 20
-  _time: 2026-07-11 14:21:36.258349545 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 13623548
-  what: min-issue-was-found
-  where: github
-- _id: 21
-  _time: 2026-07-11 14:21:36.261558222 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 492899189
-  what: min-issue-was-found
-  where: github
-- _id: 22
-  _time: 2026-07-11 14:21:36.264713401 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 543969974
-  what: min-issue-was-found
-  where: github
-- _id: 23
-  _time: 2026-07-11 14:21:36.267898345 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 955159947
-  what: min-issue-was-found
-  where: github
-- _id: 24
-  _time: 2026-07-11 14:21:36.276758294 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1260338737
-  what: min-issue-was-found
-  where: github
-- _id: 25
-  _time: 2026-07-11 14:21:36.283340852 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 570457023
-  what: min-issue-was-found
-  where: github
-- _id: 26
-  _time: 2026-07-11 14:21:36.290538974 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 493235807
-  what: min-issue-was-found
-  where: github
-- _id: 27
-  _time: 2026-07-11 14:21:36.294890797 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 447446664
-  what: min-issue-was-found
-  where: github
-- _id: 28
-  _time: 2026-07-11 14:21:36.299511585 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 510082372
-  what: min-issue-was-found
-  where: github
-- _id: 29
-  _time: 2026-07-11 14:21:36.304124127 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 721146770
-  what: min-issue-was-found
-  where: github
-- _id: 30
-  _time: 2026-07-11 14:21:36.308699840 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 970961472
-  what: min-issue-was-found
-  where: github
-- _id: 31
-  _time: 2026-07-11 14:21:36.312896512 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 671896902
-  what: min-issue-was-found
-  where: github
-- _id: 32
-  _time: 2026-07-11 14:21:36.316898549 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 731516758
-  what: min-issue-was-found
-  where: github
-- _id: 33
-  _time: 2026-07-11 14:21:36.321203925 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574534248
-  what: min-issue-was-found
-  where: github
-- _id: 34
-  _time: 2026-07-11 14:21:36.325230889 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 396732517
-  what: min-issue-was-found
-  where: github
-- _id: 35
-  _time: 2026-07-11 14:21:36.329146103 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 840332960
-  what: min-issue-was-found
-  where: github
-- _id: 36
-  _time: 2026-07-11 14:21:36.333283073 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 482612876
-  what: min-issue-was-found
-  where: github
-- _id: 37
-  _time: 2026-07-11 14:21:36.337588950 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574459304
-  what: min-issue-was-found
-  where: github
-- _id: 38
-  _time: 2026-07-11 14:21:36.342060037 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 784310467
-  what: min-issue-was-found
-  where: github
-- _id: 39
-  _time: 2026-07-11 14:21:36.346559648 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 489321585
-  what: min-issue-was-found
-  where: github
-- _id: 40
-  _time: 2026-07-11 14:21:36.351021026 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 490221501
-  what: min-issue-was-found
-  where: github
-- _id: 41
-  _time: 2026-07-11 14:21:37.538832761 Z
-  _version: 0.4.0/0.31.0/
-  commit: 3b16e4f27392e37f34f0c8fad118ebe04b1d7915
-  default_branch: master
-  details: 'A new Git push #36917887125 has arrived to objectionary/news.eolang.org,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 14628440210
-  event_type: PushEvent
-  is_human: 1
-  push_id: 36917887125
-  ref: refs/heads/master
-  repository: 501259435
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-07-09 14:07:52.000000000 Z
-  where: github
-  who: 526301
-- _id: 42
-  _time: 2026-07-11 14:21:38.408331905 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/davidanson-markdownlint-cli2-action-24.x
-  details: The pull request objectionary/news.eolang.org#99 has been opened by @renovate[bot].
-  event_id: 11344494726
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 99
-  repository: 501259435
-  what: pull-was-opened
-  when: 2026-07-04 02:04:08.000000000 Z
-  where: github
-  who: 29139614
-- _id: 43
-  _time: 2026-07-11 14:21:38.718597730 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/news.eolang.org#98 has been opened by @renovate[bot].
-  event_id: 11192183459
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 98
-  repository: 501259435
-  what: pull-was-opened
-  when: 2026-06-30 22:02:55.000000000 Z
-  where: github
-  who: 29139614
-- _id: 44
-  _time: 2026-07-11 14:21:39.665982147 Z
+  _time: 2026-07-11 15:47:19.761880965 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 546194972
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 45
-  _time: 2026-07-11 14:21:39.671051576 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 492899189
-  what: labels-were-scanned
-  where: github
-- _id: 46
-  _time: 2026-07-11 14:21:39.675738959 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 840332960
-  what: labels-were-scanned
-  where: github
-- _id: 47
-  _time: 2026-07-11 14:21:39.680275358 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 568705267
-  what: labels-were-scanned
-  where: github
-- _id: 48
-  _time: 2026-07-11 14:21:39.684334262 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 671896902
-  what: labels-were-scanned
-  where: github
-- _id: 49
-  _time: 2026-07-11 14:21:39.688302435 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 543969974
-  what: labels-were-scanned
-  where: github
-- _id: 50
-  _time: 2026-07-11 14:21:39.692398729 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 501259435
-  what: labels-were-scanned
-  where: github
-- _id: 51
-  _time: 2026-07-11 14:21:39.696750141 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 493235807
-  what: labels-were-scanned
-  where: github
-- _id: 52
-  _time: 2026-07-11 14:21:39.701473341 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 489321585
-  what: labels-were-scanned
-  where: github
-- _id: 53
-  _time: 2026-07-11 14:21:39.706427504 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 499536612
-  what: labels-were-scanned
-  where: github
-- _id: 54
-  _time: 2026-07-11 14:21:39.715636608 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 482612876
-  what: labels-were-scanned
-  where: github
-- _id: 55
-  _time: 2026-07-11 14:21:39.720594889 Z
+- _id: 21
+  _time: 2026-07-11 15:47:19.766987730 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 977982682
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 56
-  _time: 2026-07-11 14:21:39.725090432 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 490221501
-  what: labels-were-scanned
-  where: github
-- _id: 57
-  _time: 2026-07-11 14:21:39.729831415 Z
+- _id: 22
+  _time: 2026-07-11 15:47:19.771262593 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 501942888
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 58
-  _time: 2026-07-11 14:21:39.734467100 Z
+- _id: 23
+  _time: 2026-07-11 15:47:19.775317544 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 490157985
-  what: labels-were-scanned
+  repository: 489321585
+  what: min-issue-was-found
   where: github
-- _id: 59
-  _time: 2026-07-11 14:21:39.739126290 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 519299365
-  what: labels-were-scanned
-  where: github
-- _id: 60
-  _time: 2026-07-11 14:21:39.743828811 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 396732517
-  what: labels-were-scanned
-  where: github
-- _id: 61
-  _time: 2026-07-11 14:21:39.748676985 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 13623548
-  what: labels-were-scanned
-  where: github
-- _id: 62
-  _time: 2026-07-11 14:21:39.753578008 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574459304
-  what: labels-were-scanned
-  where: github
-- _id: 63
-  _time: 2026-07-11 14:21:39.760327589 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1037933692
-  what: labels-were-scanned
-  where: github
-- _id: 64
-  _time: 2026-07-11 14:21:39.765759228 Z
+- _id: 24
+  _time: 2026-07-11 15:47:19.779288637 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 784310467
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 65
-  _time: 2026-07-11 14:21:39.771296695 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 510082372
-  what: labels-were-scanned
-  where: github
-- _id: 66
-  _time: 2026-07-11 14:21:39.787571523 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 570457023
-  what: labels-were-scanned
-  where: github
-- _id: 67
-  _time: 2026-07-11 14:21:39.797005950 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 552394123
-  what: labels-were-scanned
-  where: github
-- _id: 68
-  _time: 2026-07-11 14:21:39.804548509 Z
+- _id: 25
+  _time: 2026-07-11 15:47:19.783780077 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 731516758
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 69
-  _time: 2026-07-11 14:21:39.811450455 Z
+- _id: 26
+  _time: 2026-07-11 15:47:19.787960023 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 889819508
-  what: labels-were-scanned
+  repository: 519299365
+  what: min-issue-was-found
   where: github
-- _id: 70
-  _time: 2026-07-11 14:21:39.818105198 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574534248
-  what: labels-were-scanned
-  where: github
-- _id: 71
-  _time: 2026-07-11 14:21:39.824522656 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 73056727
-  what: labels-were-scanned
-  where: github
-- _id: 72
-  _time: 2026-07-11 14:21:39.830932480 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 721146770
-  what: labels-were-scanned
-  where: github
-- _id: 73
-  _time: 2026-07-11 14:21:39.837425599 Z
+- _id: 27
+  _time: 2026-07-11 15:47:19.792101686 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 551486781
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 74
-  _time: 2026-07-11 14:21:39.844130025 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 519246071
-  what: labels-were-scanned
-  where: github
-- _id: 75
-  _time: 2026-07-11 14:21:39.851245803 Z
+- _id: 28
+  _time: 2026-07-11 15:47:19.796740352 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 1219806055
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 76
-  _time: 2026-07-11 14:21:39.859258073 Z
+- _id: 29
+  _time: 2026-07-11 15:47:19.801067313 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 531151981
-  what: labels-were-scanned
+  repository: 568705267
+  what: min-issue-was-found
   where: github
-- _id: 77
-  _time: 2026-07-11 14:21:39.866094005 Z
+- _id: 30
+  _time: 2026-07-11 15:47:19.804561983 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 889819508
+  what: min-issue-was-found
+  where: github
+- _id: 31
+  _time: 2026-07-11 15:47:19.808196324 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 955159947
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
+- _id: 32
+  _time: 2026-07-11 15:47:19.811872454 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 396732517
+  what: min-issue-was-found
+  where: github
+- _id: 33
+  _time: 2026-07-11 15:47:19.815542402 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 73056727
+  what: min-issue-was-found
+  where: github
+- _id: 34
+  _time: 2026-07-11 15:47:19.820635812 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1037933692
+  what: min-issue-was-found
+  where: github
+- _id: 35
+  _time: 2026-07-11 15:47:19.824491669 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574459304
+  what: min-issue-was-found
+  where: github
+- _id: 36
+  _time: 2026-07-11 15:47:19.828367684 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 13623548
+  what: min-issue-was-found
+  where: github
+- _id: 37
+  _time: 2026-07-11 15:47:19.832592633 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574534248
+  what: min-issue-was-found
+  where: github
+- _id: 38
+  _time: 2026-07-11 15:47:19.836898615 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 493235807
+  what: min-issue-was-found
+  where: github
+- _id: 39
+  _time: 2026-07-11 15:47:19.841298022 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 531151981
+  what: min-issue-was-found
+  where: github
+- _id: 40
+  _time: 2026-07-11 15:47:19.846029923 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 570457023
+  what: min-issue-was-found
+  where: github
+- _id: 41
+  _time: 2026-07-11 15:47:21.772649197 Z
+  _version: 0.4.0/0.31.0/
+  commit: b171abcffbacc24c205f87c96984ba9a8fa8d047
+  default_branch: master
+  details: 'A new Git push #36830743377 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14541451812
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36830743377
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-08 09:19:04.000000000 Z
+  where: github
+  who: 526301
+- _id: 42
+  _time: 2026-07-11 15:47:22.099066915 Z
+  _version: 0.4.0/0.31.0/
+  commit: 65a7d1bbd7f84d3667aa40ff2d1a906d894bf391
+  default_branch: master
+  details: 'A new Git push #36829267389 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14539976755
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36829267389
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-08 08:52:27.000000000 Z
+  where: github
+  who: 526301
+- _id: 43
+  _time: 2026-07-11 15:47:22.315192330 Z
+  _version: 0.4.0/0.31.0/
+  commit: 6c2e3ee08fb0a3c4371bd226818725a09de33ea6
+  default_branch: master
+  details: 'A new Git push #36824824000 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14535538606
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36824824000
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-08 07:28:32.000000000 Z
+  where: github
+  who: 526301
+- _id: 44
+  _time: 2026-07-11 15:47:22.515045986 Z
+  _version: 0.4.0/0.31.0/
+  commit: 3f85db540144cc4a67c7fc42ce582ac1017970f8
+  default_branch: master
+  details: 'A new Git push #36798974593 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14509688335
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36798974593
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 19:56:01.000000000 Z
+  where: github
+  who: 526301
+- _id: 45
+  _time: 2026-07-11 15:47:22.711034810 Z
+  _version: 0.4.0/0.31.0/
+  commit: c3ea1e810307b4ef22597a8c4bb56b7565f534bc
+  default_branch: master
+  details: 'A new Git push #36782209563 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14492923141
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36782209563
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 14:38:39.000000000 Z
+  where: github
+  who: 526301
+- _id: 46
+  _time: 2026-07-11 15:47:22.924085901 Z
+  _version: 0.4.0/0.31.0/
+  commit: 5be0538a90698a7e77eac420b139816c96f29d84
+  default_branch: master
+  details: 'A new Git push #36780947966 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14491661894
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36780947966
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 14:17:59.000000000 Z
+  where: github
+  who: 526301
+- _id: 47
+  _time: 2026-07-11 15:47:23.127051342 Z
+  _version: 0.4.0/0.31.0/
+  commit: 65c681f125f9354ffa466f7cc21ba4d44bfc4045
+  default_branch: master
+  details: 'A new Git push #36780525485 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14491239993
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36780525485
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 14:10:54.000000000 Z
+  where: github
+  who: 526301
+- _id: 48
+  _time: 2026-07-11 15:47:23.318070819 Z
+  _version: 0.4.0/0.31.0/
+  commit: bda60f31cfce55c2541bf666f6936a76717048d1
+  default_branch: master
+  details: 'A new Git push #36780404771 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14491119037
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36780404771
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 14:08:55.000000000 Z
+  where: github
+  who: 526301
+- _id: 49
+  _time: 2026-07-11 15:47:23.552830037 Z
+  _version: 0.4.0/0.31.0/
+  commit: 6f6d0ad5b6b162788f85d46a00c9c3e73193e61b
+  default_branch: master
+  details: 'A new Git push #36771772955 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14482511107
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36771772955
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 11:38:08.000000000 Z
+  where: github
+  who: 526301
+- _id: 50
+  _time: 2026-07-11 15:47:23.778258388 Z
+  _version: 0.4.0/0.31.0/
+  commit: 5f7850aba7d6b5739a721752f7a12a895bb801e5
+  default_branch: master
+  details: 'A new Git push #36771307347 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14482047848
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36771307347
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 11:29:05.000000000 Z
+  where: github
+  who: 526301
+- _id: 51
+  _time: 2026-07-11 15:47:23.971847402 Z
+  _version: 0.4.0/0.31.0/
+  commit: 98209c1781eb61baaea5a51a7d0cfac9f675e1d1
+  default_branch: master
+  details: 'A new Git push #36770032324 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14480777893
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36770032324
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 11:04:19.000000000 Z
+  where: github
+  who: 526301
+- _id: 52
+  _time: 2026-07-11 15:47:24.157525276 Z
+  _version: 0.4.0/0.31.0/
+  commit: fae10607da3df52f2d666b0b7510d34ff5d832f7
+  default_branch: master
+  details: 'A new Git push #36768009536 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14478762637
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36768009536
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 10:24:58.000000000 Z
+  where: github
+  who: 526301
+- _id: 53
+  _time: 2026-07-11 15:47:24.331576794 Z
+  _version: 0.4.0/0.31.0/
+  commit: 2fb00f11195e9175883886406964c1b3a7a492d5
+  default_branch: master
+  details: 'A new Git push #36763630600 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14474388166
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36763630600
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 09:02:16.000000000 Z
+  where: github
+  who: 526301
+- _id: 54
+  _time: 2026-07-11 15:47:24.485250065 Z
+  _version: 0.4.0/0.31.0/
+  commit: 4a61cc2d0d8d79fca29b47641c5a3bfc740269f2
+  default_branch: master
+  details: 'A new Git push #36763460246 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14474218465
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36763460246
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 08:59:24.000000000 Z
+  where: github
+  who: 526301
+- _id: 55
+  _time: 2026-07-11 15:47:24.695097109 Z
+  _version: 0.4.0/0.31.0/
+  commit: cf4404cfaf6c023924e8cbca5b79f1ff7cfc33fd
+  default_branch: master
+  details: 'A new Git push #36760400542 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14471164696
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36760400542
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 08:00:40.000000000 Z
+  where: github
+  who: 526301
+- _id: 56
+  _time: 2026-07-11 15:47:24.912001121 Z
+  _version: 0.4.0/0.31.0/
+  commit: 9263913ec696b65823499297585deed6d6cee933
+  default_branch: master
+  details: 'A new Git push #36760377430 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14471141591
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36760377430
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 08:00:16.000000000 Z
+  where: github
+  who: 526301
+- _id: 57
+  _time: 2026-07-11 15:47:25.112955895 Z
+  _version: 0.4.0/0.31.0/
+  commit: c54d29424f4476f35458c5a266ae43953f35efad
+  default_branch: master
+  details: 'A new Git push #36759932324 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14470697408
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36759932324
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 07:51:12.000000000 Z
+  where: github
+  who: 526301
+- _id: 58
+  _time: 2026-07-11 15:47:25.303371817 Z
+  _version: 0.4.0/0.31.0/
+  commit: 8a29de1e5c97c7ac1693db0b56a0868c3c07c5ba
+  default_branch: master
+  details: 'A new Git push #36759820080 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14470585251
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36759820080
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-07 07:48:55.000000000 Z
+  where: github
+  who: 526301
+- _id: 59
+  _time: 2026-07-11 15:47:25.602880140 Z
+  _version: 0.4.0/0.31.0/
+  commit: f360bd3773d8973dc2396e1cd4832ae4055af557
+  default_branch: master
+  details: 'A new Git push #36723929154 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14434662705
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36723929154
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-06 16:54:08.000000000 Z
+  where: github
+  who: 526301
+- _id: 60
+  _time: 2026-07-11 15:47:25.838367474 Z
+  _version: 0.4.0/0.31.0/
+  commit: 54b53bc7f47fe8ef4a5c5481d8cff3b5ff7ddf27
+  default_branch: master
+  details: 'A new Git push #36723357264 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14434090965
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36723357264
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-06 16:43:11.000000000 Z
+  where: github
+  who: 526301
+- _id: 61
+  _time: 2026-07-11 15:47:26.234117945 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/davidanson-markdownlint-cli2-action-24.x
+  details: The pull request objectionary/calculus-paper#45 has been opened by @renovate[bot].
+  event_id: 11343357282
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 45
+  repository: 784310467
+  what: pull-was-opened
+  when: 2026-07-04 00:37:23.000000000 Z
+  where: github
+  who: 29139614
+- _id: 62
+  _time: 2026-07-11 15:47:26.406550985 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#44 has been opened by @morphqdd.
+  event_id: 11341340281
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 44
+  repository: 784310467
+  what: issue-was-opened
+  when: 2026-07-03 22:24:19.000000000 Z
+  where: github
+  who: 125282851
+- _id: 63
+  _time: 2026-07-11 15:47:26.417451062 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#41 has been closed by @morphqdd.
+  event_id: 11341332721
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 41
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-07-03 22:23:54.000000000 Z
+  where: github
+  who: 125282851
+- _id: 64
+  _time: 2026-07-11 15:47:26.455043442 Z
+  _version: 0.4.0/0.31.0/
+  commit: 2a069a79db021e034c112e59778d83954151d169
+  default_branch: master
+  details: 'A new Git push #36576617092 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14287565191
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36576617092
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 11:35:38.000000000 Z
+  where: github
+  who: 526301
+- _id: 65
+  _time: 2026-07-11 15:47:26.654402061 Z
+  _version: 0.4.0/0.31.0/
+  commit: c95d9dead672e834d805f0370ff572527e6c70d1
+  default_branch: master
+  details: 'A new Git push #36576475490 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14287424256
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36576475490
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 11:32:22.000000000 Z
+  where: github
+  who: 526301
+- _id: 66
+  _time: 2026-07-11 15:47:26.861946073 Z
+  _version: 0.4.0/0.31.0/
+  commit: 388568a34c9c436b67589ab30631abca622c91a0
+  default_branch: master
+  details: 'A new Git push #36573812132 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14284771051
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36573812132
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 10:33:41.000000000 Z
+  where: github
+  who: 526301
+- _id: 67
+  _time: 2026-07-11 15:47:27.104130830 Z
+  _version: 0.4.0/0.31.0/
+  commit: 25c1dfa0c1d54b50014b6643d8570d1e14e02bfb
+  default_branch: master
+  details: 'A new Git push #36573501395 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14284461732
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36573501395
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 10:26:55.000000000 Z
+  where: github
+  who: 526301
+- _id: 68
+  _time: 2026-07-11 15:47:27.294351178 Z
+  _version: 0.4.0/0.31.0/
+  commit: 2ed9b9a1885f58f9539ba7e575936f2546c8441f
+  default_branch: master
+  details: 'A new Git push #36572644896 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14283611037
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36572644896
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 10:08:27.000000000 Z
+  where: github
+  who: 526301
+- _id: 69
+  _time: 2026-07-11 15:47:27.498232516 Z
+  _version: 0.4.0/0.31.0/
+  commit: d5c0c1ae84cf285b716598e6f0fe3206b0c9da9f
+  default_branch: master
+  details: 'A new Git push #36570966938 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14281943614
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36570966938
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 09:34:57.000000000 Z
+  where: github
+  who: 526301
+- _id: 70
+  _time: 2026-07-11 15:47:27.698429730 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#43 has been closed by @yegor256.
+  event_id: 11317663377
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 43
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-07-03 09:34:39.000000000 Z
+  where: github
+  who: 526301
+- _id: 71
+  _time: 2026-07-11 15:47:27.728235228 Z
+  _version: 0.4.0/0.31.0/
+  commit: fb6b61fd28f8293e1f8545e6ac14d8d35216126f
+  default_branch: master
+  details: 'A new Git push #36569397880 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14280380943
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36569397880
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 09:02:46.000000000 Z
+  where: github
+  who: 526301
+- _id: 72
+  _time: 2026-07-11 15:47:27.949194739 Z
+  _version: 0.4.0/0.31.0/
+  commit: 0ad1a24b3bd5aa871cc885ee26ca31002ced8f35
+  default_branch: master
+  details: 'A new Git push #36568600159 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14279586580
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36568600159
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 08:46:19.000000000 Z
+  where: github
+  who: 526301
+- _id: 73
+  _time: 2026-07-11 15:47:28.336740931 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#43 has been opened by @andreychh.
+  event_id: 11315437189
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 43
+  repository: 784310467
+  what: issue-was-opened
+  when: 2026-07-03 08:40:41.000000000 Z
+  where: github
+  who: 132923027
+- _id: 74
+  _time: 2026-07-11 15:47:28.636721618 Z
+  _version: 0.4.0/0.31.0/
+  commit: 68853f1358dff88a01580b2fd06d4031f961e30d
+  default_branch: master
+  details: 'A new Git push #36563344526 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14274350544
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36563344526
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 06:50:12.000000000 Z
+  where: github
+  who: 526301
+- _id: 75
+  _time: 2026-07-11 15:47:28.822105939 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#33 has been closed by @yegor256.
+  event_id: 11310989119
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 33
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-07-03 06:47:36.000000000 Z
+  where: github
+  who: 526301
+- _id: 76
+  _time: 2026-07-11 15:47:28.846251014 Z
+  _version: 0.4.0/0.31.0/
+  commit: e1221b850d7a7a4dcbe1279564f3d2be73eebc58
+  default_branch: master
+  details: 'A new Git push #36562812473 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14273819620
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36562812473
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 06:36:30.000000000 Z
+  where: github
+  who: 526301
+- _id: 77
+  _time: 2026-07-11 15:47:29.096628326 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#35 has been closed by @yegor256.
+  event_id: 11310531081
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 35
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-07-03 06:35:17.000000000 Z
+  where: github
+  who: 526301
 - _id: 78
-  _time: 2026-07-11 14:21:39.874426044 Z
+  _time: 2026-07-11 15:47:29.108458578 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1049128198
-  what: labels-were-scanned
+  commit: de29fe87d3c7aa00ec71e739598eb37e9d7f86c1
+  default_branch: master
+  details: 'A new Git push #36562763779 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14273771372
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36562763779
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 06:35:15.000000000 Z
   where: github
+  who: 526301
 - _id: 79
-  _time: 2026-07-11 14:21:39.881082711 Z
+  _time: 2026-07-11 15:47:29.323811365 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1260338737
-  what: labels-were-scanned
+  details: The issue objectionary/calculus-paper#40 has been closed by @yegor256.
+  event_id: 11310475950
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 40
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-07-03 06:33:53.000000000 Z
   where: github
+  who: 526301
 - _id: 80
-  _time: 2026-07-11 14:21:39.887632006 Z
+  _time: 2026-07-11 15:47:29.377697547 Z
+  _version: 0.4.0/0.31.0/
+  commit: 16681d30953fbc5cfbdf2fac88da02210bea1484
+  default_branch: master
+  details: 'A new Git push #36562544998 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14273552618
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36562544998
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 06:29:45.000000000 Z
+  where: github
+  who: 526301
+- _id: 81
+  _time: 2026-07-11 15:47:29.878865263 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#30 has been closed by @yegor256.
+  event_id: 11310255175
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 30
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-07-03 06:27:50.000000000 Z
+  where: github
+  who: 526301
+- _id: 82
+  _time: 2026-07-11 15:47:29.891177330 Z
+  _version: 0.4.0/0.31.0/
+  commit: '0619f5ec1dcf8cd147e7fbed07c0d482c3f91e66'
+  default_branch: master
+  details: 'A new Git push #36562467320 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14273475089
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36562467320
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 06:27:40.000000000 Z
+  where: github
+  who: 526301
+- _id: 83
+  _time: 2026-07-11 15:47:30.114759786 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#32 has been closed by @yegor256.
+  event_id: 11310151880
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 32
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-07-03 06:25:00.000000000 Z
+  where: github
+  who: 526301
+- _id: 84
+  _time: 2026-07-11 15:47:30.719295399 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#26 has been closed by @yegor256.
+  event_id: 11310139191
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 26
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-07-03 06:24:38.000000000 Z
+  where: github
+  who: 526301
+- _id: 85
+  _time: 2026-07-11 15:47:30.738182284 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#42 has been closed by @yegor256.
+  event_id: 11310124018
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 42
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-07-03 06:24:12.000000000 Z
+  where: github
+  who: 526301
+- _id: 86
+  _time: 2026-07-11 15:47:30.749297806 Z
+  _version: 0.4.0/0.31.0/
+  commit: f2f5832a6f8636c5182c61a446a7ac5f2bf7f02f
+  default_branch: master
+  details: 'A new Git push #36562331306 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14273339545
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36562331306
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 06:24:05.000000000 Z
+  where: github
+  who: 526301
+- _id: 87
+  _time: 2026-07-11 15:47:30.938068572 Z
+  _version: 0.4.0/0.31.0/
+  commit: 2a7e7fc166b4e246ff249e01612a8a08f09df3b0
+  default_branch: master
+  details: 'A new Git push #36562219008 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14273227644
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36562219008
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 06:21:02.000000000 Z
+  where: github
+  who: 526301
+- _id: 88
+  _time: 2026-07-11 15:47:31.149665927 Z
+  _version: 0.4.0/0.31.0/
+  commit: fde9e00c7b6a14ac0af2d4eb63a86ee068e2bca0
+  default_branch: master
+  details: 'A new Git push #36561557873 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14272569363
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36561557873
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-03 06:03:36.000000000 Z
+  where: github
+  who: 526301
+- _id: 89
+  _time: 2026-07-11 15:47:31.384159486 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#42 has been opened by @andreychh.
+  event_id: 11294002929
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 42
+  repository: 784310467
+  what: issue-was-opened
+  when: 2026-07-02 19:57:56.000000000 Z
+  where: github
+  who: 132923027
+- _id: 90
+  _time: 2026-07-11 15:47:31.404454424 Z
+  _version: 0.4.0/0.31.0/
+  commit: d276baa9733af1f959c1cb75466a394618c93e02
+  default_branch: master
+  details: 'A new Git push #36516592788 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14227658699
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36516592788
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-02 12:03:01.000000000 Z
+  where: github
+  who: 526301
+- _id: 91
+  _time: 2026-07-11 15:47:31.630447853 Z
+  _version: 0.4.0/0.31.0/
+  commit: f2d7db3fbb988a4df557a1035af8c6e19bb48a2e
+  default_branch: master
+  details: 'A new Git push #36516551812 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14227617764
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36516551812
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-02 12:02:16.000000000 Z
+  where: github
+  who: 526301
+- _id: 92
+  _time: 2026-07-11 15:47:31.827090967 Z
+  _version: 0.4.0/0.31.0/
+  commit: c9c8cc91bc88369bf014786a78490fb20a0bf85f
+  default_branch: master
+  details: 'A new Git push #36471204039 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14182305759
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36471204039
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-01 16:47:17.000000000 Z
+  where: github
+  who: 526301
+- _id: 93
+  _time: 2026-07-11 15:47:32.041928995 Z
+  _version: 0.4.0/0.31.0/
+  commit: 026c96d6d49b1ed3611cbe6585d47d05d2c5b2a2
+  default_branch: master
+  details: 'A new Git push #36468736906 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14179843132
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36468736906
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-01 15:54:37.000000000 Z
+  where: github
+  who: 526301
+- _id: 94
+  _time: 2026-07-11 15:47:32.213210060 Z
+  _version: 0.4.0/0.31.0/
+  commit: 427a51f22f3b8b8fbdd4114a10f46ccb7ed1cf92
+  default_branch: master
+  details: 'A new Git push #36465948705 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14177059886
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36465948705
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-01 14:59:48.000000000 Z
+  where: github
+  who: 526301
+- _id: 95
+  _time: 2026-07-11 15:47:32.405661022 Z
+  _version: 0.4.0/0.31.0/
+  commit: be141e8687008661fc8e549acedf548ebeb0ef52
+  default_branch: master
+  details: 'A new Git push #36445910413 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14157056727
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36445910413
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-01 08:18:20.000000000 Z
+  where: github
+  who: 526301
+- _id: 96
+  _time: 2026-07-11 15:47:32.567119829 Z
+  _version: 0.4.0/0.31.0/
+  commit: 918a5afba8cc8194905b908befdfbf70180f18cb
+  default_branch: master
+  details: 'A new Git push #36445313633 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14156461750
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36445313633
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-01 08:05:13.000000000 Z
+  where: github
+  who: 526301
+- _id: 97
+  _time: 2026-07-11 15:47:32.744976634 Z
+  _version: 0.4.0/0.31.0/
+  commit: d780daee7f6150b954a6727efebad4031a55c424
+  default_branch: master
+  details: 'A new Git push #36442628618 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14153783683
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36442628618
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-01 07:03:51.000000000 Z
+  where: github
+  who: 526301
+- _id: 98
+  _time: 2026-07-11 15:47:33.025056980 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#41 has been opened by @morphqdd.
+  event_id: 11190516645
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 41
+  repository: 784310467
+  what: issue-was-opened
+  when: 2026-06-30 21:11:09.000000000 Z
+  where: github
+  who: 125282851
+- _id: 99
+  _time: 2026-07-11 15:47:33.049599100 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#40 has been opened by @morphqdd.
+  event_id: 11190340158
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 40
+  repository: 784310467
+  what: issue-was-opened
+  when: 2026-06-30 21:06:38.000000000 Z
+  where: github
+  who: 125282851
+- _id: 100
+  _time: 2026-07-11 15:47:33.064297806 Z
+  _version: 0.4.0/0.31.0/
+  branch: 26-fix-readme-badge-repo
+  details: The pull request objectionary/calculus-paper#39 has been opened by @morphqdd.
+  event_id: 11190290520
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 39
+  repository: 784310467
+  what: pull-was-opened
+  when: 2026-06-30 21:05:24.000000000 Z
+  where: github
+  who: 125282851
+- _id: 101
+  _time: 2026-07-11 15:47:33.075591181 Z
+  _version: 0.4.0/0.31.0/
+  branch: 30-endless-to-tex-sort
+  details: The pull request objectionary/calculus-paper#38 has been opened by @morphqdd.
+  event_id: 11190249838
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 38
+  repository: 784310467
+  what: pull-was-opened
+  when: 2026-06-30 21:04:23.000000000 Z
+  where: github
+  who: 125282851
+- _id: 102
+  _time: 2026-07-11 15:47:33.086939219 Z
+  _version: 0.4.0/0.31.0/
+  branch: 32-zip-it-curl-fail-fast
+  details: The pull request objectionary/calculus-paper#37 has been opened by @morphqdd.
+  event_id: 11190211959
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 37
+  repository: 784310467
+  what: pull-was-opened
+  when: 2026-06-30 21:03:26.000000000 Z
+  where: github
+  who: 125282851
+- _id: 103
+  _time: 2026-07-11 15:47:33.111910254 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/calculus-paper#36 has been opened by @renovate[bot].
+  event_id: 11189695610
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 36
+  repository: 784310467
+  what: pull-was-opened
+  when: 2026-06-30 20:50:04.000000000 Z
+  where: github
+  who: 29139614
+- _id: 104
+  _time: 2026-07-11 15:47:33.246037831 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#35 has been opened by @kreinba.
+  event_id: 11162017587
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 35
+  repository: 784310467
+  what: issue-was-opened
+  when: 2026-06-30 10:10:26.000000000 Z
+  where: github
+  who: 9535667
+- _id: 105
+  _time: 2026-07-11 15:47:33.261933185 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#34 has been closed by @kreinba.
+  event_id: 11161889083
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 34
+  repository: 784310467
+  what: issue-was-closed
+  when: 2026-06-30 10:07:25.000000000 Z
+  where: github
+  who: 9535667
+- _id: 106
+  _time: 2026-07-11 15:47:33.277127464 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/calculus-paper#34 has been opened by @kreinba.
+  event_id: 11161878869
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 34
+  repository: 784310467
+  what: issue-was-opened
+  when: 2026-06-30 10:07:11.000000000 Z
+  where: github
+  who: 9535667
+- _id: 107
+  _time: 2026-07-11 15:47:33.293141692 Z
+  _version: 0.4.0/0.31.0/
+  commit: 36edf5f07c4027886c472e692ae46130af08c419
+  default_branch: master
+  details: 'A new Git push #36389725705 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14101105834
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36389725705
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-06-30 09:25:45.000000000 Z
+  where: github
+  who: 526301
+- _id: 108
+  _time: 2026-07-11 15:47:33.518745368 Z
+  _version: 0.4.0/0.31.0/
+  commit: f56624a5b90e7a63ffa4dcf76d669fee324a39b0
+  default_branch: master
+  details: 'A new Git push #36389229944 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14100611250
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36389229944
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-06-30 09:15:22.000000000 Z
+  where: github
+  who: 526301
+- _id: 109
+  _time: 2026-07-11 15:47:33.738365682 Z
+  _version: 0.4.0/0.31.0/
+  commit: 42d29f5a6bb1afc26c42b9d752baaa1e5c246579
+  default_branch: master
+  details: 'A new Git push #36389020402 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14100402061
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36389020402
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-06-30 09:10:58.000000000 Z
+  where: github
+  who: 526301
+- _id: 110
+  _time: 2026-07-11 15:47:33.943266164 Z
+  _version: 0.4.0/0.31.0/
+  commit: 05cdc9dd4eda77fab0e4da4ee0ae63f3fb1555ef
+  default_branch: master
+  details: 'A new Git push #36378295407 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14089719827
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36378295407
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-06-30 04:44:06.000000000 Z
+  where: github
+  who: 526301
+- _id: 111
+  _time: 2026-07-11 15:47:34.131856005 Z
+  _version: 0.4.0/0.31.0/
+  commit: 01cfdd7dfb3196c838b67ce0d0d1142154268556
+  default_branch: master
+  details: 'A new Git push #36378196413 has arrived to objectionary/calculus-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14089621295
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36378196413
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-06-30 04:40:55.000000000 Z
+  where: github
+  who: 526301
+- _id: 112
+  _time: 2026-07-11 15:47:45.035754576 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 1239730762
   what: labels-were-scanned
   where: github
-- _id: 81
-  _time: 2026-07-11 14:21:39.894097314 Z
+- _id: 113
+  _time: 2026-07-11 15:47:45.045620613 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 519246071
+  what: labels-were-scanned
+  where: github
+- _id: 114
+  _time: 2026-07-11 15:47:45.055079114 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 531151981
+  what: labels-were-scanned
+  where: github
+- _id: 115
+  _time: 2026-07-11 15:47:45.063505519 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 447446664
   what: labels-were-scanned
   where: github
-- _id: 82
-  _time: 2026-07-11 14:21:39.900827538 Z
+- _id: 116
+  _time: 2026-07-11 15:47:45.072072818 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 73056727
+  what: labels-were-scanned
+  where: github
+- _id: 117
+  _time: 2026-07-11 15:47:45.081423607 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1219806055
+  what: labels-were-scanned
+  where: github
+- _id: 118
+  _time: 2026-07-11 15:47:45.092180475 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 970961472
   what: labels-were-scanned
   where: github
-- _id: 83
-  _time: 2026-07-11 14:24:17.442487155 Z
+- _id: 119
+  _time: 2026-07-11 15:47:45.101006049 Z
   _version: 0.4.0/0.31.0/
-  average_pull_rejection_rate: 0.27606177606177607
-  since: 2026-06-13 14:21:39.906662223 Z
+  latest: 0
+  repository: 396732517
+  what: labels-were-scanned
+  where: github
+- _id: 120
+  _time: 2026-07-11 15:47:45.109896705 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 489321585
+  what: labels-were-scanned
+  where: github
+- _id: 121
+  _time: 2026-07-11 15:47:45.118949575 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 492899189
+  what: labels-were-scanned
+  where: github
+- _id: 122
+  _time: 2026-07-11 15:47:45.128276941 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 889819508
+  what: labels-were-scanned
+  where: github
+- _id: 123
+  _time: 2026-07-11 15:47:45.145941243 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574534248
+  what: labels-were-scanned
+  where: github
+- _id: 124
+  _time: 2026-07-11 15:47:45.157282007 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501259435
+  what: labels-were-scanned
+  where: github
+- _id: 125
+  _time: 2026-07-11 15:47:45.167914863 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 955159947
+  what: labels-were-scanned
+  where: github
+- _id: 126
+  _time: 2026-07-11 15:47:45.178479160 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 840332960
+  what: labels-were-scanned
+  where: github
+- _id: 127
+  _time: 2026-07-11 15:47:45.189111594 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501942888
+  what: labels-were-scanned
+  where: github
+- _id: 128
+  _time: 2026-07-11 15:47:45.200476724 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 568705267
+  what: labels-were-scanned
+  where: github
+- _id: 129
+  _time: 2026-07-11 15:47:45.211391489 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 552394123
+  what: labels-were-scanned
+  where: github
+- _id: 130
+  _time: 2026-07-11 15:47:45.221392929 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 482612876
+  what: labels-were-scanned
+  where: github
+- _id: 131
+  _time: 2026-07-11 15:47:45.231581511 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 493235807
+  what: labels-were-scanned
+  where: github
+- _id: 132
+  _time: 2026-07-11 15:47:45.241982652 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 731516758
+  what: labels-were-scanned
+  where: github
+- _id: 133
+  _time: 2026-07-11 15:47:45.255394303 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 519299365
+  what: labels-were-scanned
+  where: github
+- _id: 134
+  _time: 2026-07-11 15:47:45.268457009 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 721146770
+  what: labels-were-scanned
+  where: github
+- _id: 135
+  _time: 2026-07-11 15:47:45.280519768 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 13623548
+  what: labels-were-scanned
+  where: github
+- _id: 136
+  _time: 2026-07-11 15:47:45.292266804 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 551486781
+  what: labels-were-scanned
+  where: github
+- _id: 137
+  _time: 2026-07-11 15:47:45.304734904 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 499536612
+  what: labels-were-scanned
+  where: github
+- _id: 138
+  _time: 2026-07-11 15:47:45.316849170 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 546194972
+  what: labels-were-scanned
+  where: github
+- _id: 139
+  _time: 2026-07-11 15:47:45.328647122 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490157985
+  what: labels-were-scanned
+  where: github
+- _id: 140
+  _time: 2026-07-11 15:47:45.339659460 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490221501
+  what: labels-were-scanned
+  where: github
+- _id: 141
+  _time: 2026-07-11 15:47:45.350807623 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574459304
+  what: labels-were-scanned
+  where: github
+- _id: 142
+  _time: 2026-07-11 15:47:45.364292221 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1260338737
+  what: labels-were-scanned
+  where: github
+- _id: 143
+  _time: 2026-07-11 15:47:45.379529758 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 671896902
+  what: labels-were-scanned
+  where: github
+- _id: 144
+  _time: 2026-07-11 15:47:45.394831026 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1049128198
+  what: labels-were-scanned
+  where: github
+- _id: 145
+  _time: 2026-07-11 15:47:45.407664882 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 510082372
+  what: labels-were-scanned
+  where: github
+- _id: 146
+  _time: 2026-07-11 15:47:45.422190844 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1037933692
+  what: labels-were-scanned
+  where: github
+- _id: 147
+  _time: 2026-07-11 15:47:45.435975054 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 543969974
+  what: labels-were-scanned
+  where: github
+- _id: 148
+  _time: 2026-07-11 15:47:45.447996165 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 977982682
+  what: labels-were-scanned
+  where: github
+- _id: 149
+  _time: 2026-07-11 15:47:45.460252437 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 570457023
+  what: labels-were-scanned
+  where: github
+- _id: 150
+  _time: 2026-07-11 15:47:45.939876994 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#bug' label was attached by @yegor256 to the issue objectionary/calculus-paper#35.
+  issue: 35
+  label: bug
+  repository: 784310467
+  what: label-was-attached
+  when: 2026-07-03 06:34:10.000000000 Z
+  where: github
+  who: 526301
+- _id: 151
+  _time: 2026-07-11 15:47:46.256198376 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#bug' label was attached by @yegor256 to the issue objectionary/calculus-paper#40.
+  issue: 40
+  label: bug
+  repository: 784310467
+  what: label-was-attached
+  when: 2026-07-03 06:33:40.000000000 Z
+  where: github
+  who: 526301
+- _id: 152
+  _time: 2026-07-11 15:47:46.542201854 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#bug' label was attached by @yegor256 to the issue objectionary/calculus-paper#41.
+  issue: 41
+  label: bug
+  repository: 784310467
+  what: label-was-attached
+  when: 2026-07-03 06:28:06.000000000 Z
+  where: github
+  who: 526301
+- _id: 153
+  _time: 2026-07-11 15:47:46.808115376 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#bug' label was attached by @yegor256 to the issue objectionary/calculus-paper#42.
+  issue: 42
+  label: bug
+  repository: 784310467
+  what: label-was-attached
+  when: 2026-07-03 06:23:37.000000000 Z
+  where: github
+  who: 526301
+- _id: 154
+  _time: 2026-07-11 15:47:47.136510783 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#bug' label was attached by @yegor256 to the issue objectionary/calculus-paper#43.
+  issue: 43
+  label: bug
+  repository: 784310467
+  what: label-was-attached
+  when: 2026-07-03 09:01:44.000000000 Z
+  where: github
+  who: 526301
+- _id: 155
+  _time: 2026-07-11 15:47:47.380440978 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 784310467
+  what: labels-were-scanned
+  where: github
+- _id: 156
+  _time: 2026-07-11 15:50:44.037145779 Z
+  _version: 0.4.0/0.31.0/
+  average_pull_files_size: 5.973333333333334
+  average_pull_hoc_size: 122.456
+  since: 2026-06-13 15:47:47.392269217 Z
   what: quality-of-service
-  when: 2026-07-11 14:21:39.906637326 Z
-- _id: 84
-  _time: 2026-07-11 14:24:56.807556983 Z
+  when: 2026-07-11 15:47:47.392245111 Z
+- _id: 157
+  _time: 2026-07-11 15:51:08.653079207 Z
   _version: 0.4.0/0.31.0/
-  since: 2026-06-13 14:24:39.912311494 Z
-  total_issues_created: 272
-  total_pulls_submitted: 132
+  since: 2026-06-13 15:50:47.392721092 Z
+  total_issues_created: 273
+  total_pulls_submitted: 133
   what: quantity-of-deliverables
-  when: 2026-07-11 14:24:39.912281979 Z
+  when: 2026-07-11 15:50:47.392696145 Z
