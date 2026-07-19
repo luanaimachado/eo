@@ -1,682 +1,1051 @@
 ---
 - added: 8
   cycles: 1
-  error: undefined method `+' for nil
+  error: undefined method `[]' for nil
   removed: 8
-  seconds: 343.352623244
+  seconds: 553.55680211
   version: 0.31.0
   what: judges-summary
-  when: 2026-07-19 21:47:56.983446712 Z
+  when: 2026-07-19 22:50:26.281758446 Z
 - _id: 1
-  _time: 2026-07-19 21:44:54.832487818 Z
+  _time: 2026-07-19 22:43:54.918240362 Z
   _version: 0.4.0/0.31.0/
   total_active_contributors: 27
-  total_commits: 52053
   total_contributors: 517
   total_files: 14852
   total_forks: 476
-  total_issues: 5045
-  total_pulls: 9846
   total_releases: 923
-  total_repositories: 39
   total_stars: 1798
   what: dimensions-of-terrain
-  when: 2026-07-19 21:42:13.992926657 Z
+  when: 2026-07-19 22:41:13.056651177 Z
 - _id: 2
-  _time: 2026-07-19 21:44:55.154327436 Z
+  _time: 2026-07-19 22:44:15.727832150 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 543969974
+  repository: 552394123
   what: min-issue-was-found
   where: github
 - _id: 3
-  _time: 2026-07-19 21:44:55.158626103 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 977982682
-  what: min-issue-was-found
-  where: github
-- _id: 4
-  _time: 2026-07-19 21:44:55.161775997 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 490157985
-  what: min-issue-was-found
-  where: github
-- _id: 5
-  _time: 2026-07-19 21:44:55.165159216 Z
+  _time: 2026-07-19 22:44:15.730685884 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 501942888
   what: min-issue-was-found
   where: github
-- _id: 6
-  _time: 2026-07-19 21:44:55.168250952 Z
+- _id: 4
+  _time: 2026-07-19 22:44:15.733330760 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 671896902
+  repository: 13623548
+  what: min-issue-was-found
+  where: github
+- _id: 5
+  _time: 2026-07-19 22:44:15.736011181 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 546194972
+  what: min-issue-was-found
+  where: github
+- _id: 6
+  _time: 2026-07-19 22:44:15.738691222 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 489321585
   what: min-issue-was-found
   where: github
 - _id: 7
-  _time: 2026-07-19 21:44:55.171742584 Z
+  _time: 2026-07-19 22:44:15.741527014 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 493235807
+  repository: 73056727
   what: min-issue-was-found
   where: github
 - _id: 8
-  _time: 2026-07-19 21:44:55.175175957 Z
+  _time: 2026-07-19 22:44:15.744272918 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 482612876
+  what: min-issue-was-found
+  where: github
+- _id: 9
+  _time: 2026-07-19 22:44:15.747208105 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 955159947
+  what: min-issue-was-found
+  where: github
+- _id: 10
+  _time: 2026-07-19 22:44:15.750057072 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 499536612
+  what: min-issue-was-found
+  where: github
+- _id: 11
+  _time: 2026-07-19 22:44:15.753115689 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490157985
+  what: min-issue-was-found
+  where: github
+- _id: 12
+  _time: 2026-07-19 22:44:15.756024587 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 551486781
   what: min-issue-was-found
   where: github
-- _id: 9
-  _time: 2026-07-19 21:44:55.178588441 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 531151981
-  what: min-issue-was-found
-  where: github
-- _id: 10
-  _time: 2026-07-19 21:44:55.182141337 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 721146770
-  what: min-issue-was-found
-  where: github
-- _id: 11
-  _time: 2026-07-19 21:44:55.185963605 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 570457023
-  what: min-issue-was-found
-  where: github
-- _id: 12
-  _time: 2026-07-19 21:44:55.189844562 Z
+- _id: 13
+  _time: 2026-07-19 22:44:15.759158526 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 519246071
   what: min-issue-was-found
   where: github
-- _id: 13
-  _time: 2026-07-19 21:44:55.193274509 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 568705267
-  what: min-issue-was-found
-  where: github
 - _id: 14
-  _time: 2026-07-19 21:44:55.196905600 Z
+  _time: 2026-07-19 22:44:15.762136844 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 447446664
   what: min-issue-was-found
   where: github
 - _id: 15
-  _time: 2026-07-19 21:44:55.200649533 Z
+  _time: 2026-07-19 22:44:15.765333970 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 552394123
+  repository: 671896902
   what: min-issue-was-found
   where: github
 - _id: 16
-  _time: 2026-07-19 21:44:55.204502197 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 492899189
-  what: min-issue-was-found
-  where: github
-- _id: 17
-  _time: 2026-07-19 21:44:55.208326299 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1239730762
-  what: min-issue-was-found
-  where: github
-- _id: 18
-  _time: 2026-07-19 21:44:55.211987607 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 546194972
-  what: min-issue-was-found
-  where: github
-- _id: 19
-  _time: 2026-07-19 21:44:55.215595756 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 784310467
-  what: min-issue-was-found
-  where: github
-- _id: 20
-  _time: 2026-07-19 21:44:55.221006005 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1049128198
-  what: min-issue-was-found
-  where: github
-- _id: 21
-  _time: 2026-07-19 21:44:55.224430041 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 889819508
-  what: min-issue-was-found
-  where: github
-- _id: 22
-  _time: 2026-07-19 21:44:55.227755122 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 955159947
-  what: min-issue-was-found
-  where: github
-- _id: 23
-  _time: 2026-07-19 21:44:55.231187413 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 73056727
-  what: min-issue-was-found
-  where: github
-- _id: 24
-  _time: 2026-07-19 21:44:55.234628039 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 510082372
-  what: min-issue-was-found
-  where: github
-- _id: 25
-  _time: 2026-07-19 21:44:55.238119050 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1219806055
-  what: min-issue-was-found
-  where: github
-- _id: 26
-  _time: 2026-07-19 21:44:55.241755321 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 840332960
-  what: min-issue-was-found
-  where: github
-- _id: 27
-  _time: 2026-07-19 21:44:55.246184491 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574534248
-  what: min-issue-was-found
-  where: github
-- _id: 28
-  _time: 2026-07-19 21:44:55.252422995 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1037933692
-  what: min-issue-was-found
-  where: github
-- _id: 29
-  _time: 2026-07-19 21:44:55.256866381 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 490221501
-  what: min-issue-was-found
-  where: github
-- _id: 30
-  _time: 2026-07-19 21:44:55.261453807 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 489321585
-  what: min-issue-was-found
-  where: github
-- _id: 31
-  _time: 2026-07-19 21:44:55.283246468 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 396732517
-  what: min-issue-was-found
-  where: github
-- _id: 32
-  _time: 2026-07-19 21:44:55.296267631 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 731516758
-  what: min-issue-was-found
-  where: github
-- _id: 33
-  _time: 2026-07-19 21:44:55.309113658 Z
+  _time: 2026-07-19 22:44:15.768500689 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 1260338737
   what: min-issue-was-found
   where: github
-- _id: 34
-  _time: 2026-07-19 21:44:55.322447203 Z
+- _id: 17
+  _time: 2026-07-19 22:44:15.771786119 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 499536612
+  repository: 574534248
+  what: min-issue-was-found
+  where: github
+- _id: 18
+  _time: 2026-07-19 22:44:15.775229565 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501259435
+  what: min-issue-was-found
+  where: github
+- _id: 19
+  _time: 2026-07-19 22:44:15.778629389 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 889819508
+  what: min-issue-was-found
+  where: github
+- _id: 20
+  _time: 2026-07-19 22:44:15.782057386 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 396732517
+  what: min-issue-was-found
+  where: github
+- _id: 21
+  _time: 2026-07-19 22:44:15.785952846 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574459304
+  what: min-issue-was-found
+  where: github
+- _id: 22
+  _time: 2026-07-19 22:44:15.791369784 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 510082372
+  what: min-issue-was-found
+  where: github
+- _id: 23
+  _time: 2026-07-19 22:44:15.794598870 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 721146770
+  what: min-issue-was-found
+  where: github
+- _id: 24
+  _time: 2026-07-19 22:44:15.797812136 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490221501
+  what: min-issue-was-found
+  where: github
+- _id: 25
+  _time: 2026-07-19 22:44:15.801140527 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 568705267
+  what: min-issue-was-found
+  where: github
+- _id: 26
+  _time: 2026-07-19 22:44:15.805871716 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1049128198
+  what: min-issue-was-found
+  where: github
+- _id: 27
+  _time: 2026-07-19 22:44:15.809420868 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 493235807
+  what: min-issue-was-found
+  where: github
+- _id: 28
+  _time: 2026-07-19 22:44:15.812903828 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 977982682
+  what: min-issue-was-found
+  where: github
+- _id: 29
+  _time: 2026-07-19 22:44:15.816416883 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 492899189
+  what: min-issue-was-found
+  where: github
+- _id: 30
+  _time: 2026-07-19 22:44:15.820015619 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1219806055
+  what: min-issue-was-found
+  where: github
+- _id: 31
+  _time: 2026-07-19 22:44:15.823675639 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 784310467
+  what: min-issue-was-found
+  where: github
+- _id: 32
+  _time: 2026-07-19 22:44:15.828697380 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1037933692
+  what: min-issue-was-found
+  where: github
+- _id: 33
+  _time: 2026-07-19 22:44:15.832475550 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1239730762
+  what: min-issue-was-found
+  where: github
+- _id: 34
+  _time: 2026-07-19 22:44:15.836432985 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 570457023
   what: min-issue-was-found
   where: github
 - _id: 35
-  _time: 2026-07-19 21:44:55.336915916 Z
+  _time: 2026-07-19 22:44:15.840802739 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 531151981
+  what: min-issue-was-found
+  where: github
+- _id: 36
+  _time: 2026-07-19 22:44:15.845141245 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 731516758
+  what: min-issue-was-found
+  where: github
+- _id: 37
+  _time: 2026-07-19 22:44:15.849591239 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 840332960
+  what: min-issue-was-found
+  where: github
+- _id: 38
+  _time: 2026-07-19 22:44:15.854105894 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 970961472
   what: min-issue-was-found
   where: github
-- _id: 36
-  _time: 2026-07-19 21:44:55.350696255 Z
+- _id: 39
+  _time: 2026-07-19 22:44:15.858669730 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 543969974
+  what: min-issue-was-found
+  where: github
+- _id: 40
+  _time: 2026-07-19 22:44:15.872252727 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 519299365
   what: min-issue-was-found
   where: github
-- _id: 37
-  _time: 2026-07-19 21:44:55.358110512 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574459304
-  what: min-issue-was-found
-  where: github
-- _id: 38
-  _time: 2026-07-19 21:44:55.366385023 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 13623548
-  what: min-issue-was-found
-  where: github
-- _id: 39
-  _time: 2026-07-19 21:44:55.375015859 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 501259435
-  what: min-issue-was-found
-  where: github
-- _id: 40
-  _time: 2026-07-19 21:44:55.383719951 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 482612876
-  what: min-issue-was-found
-  where: github
 - _id: 41
-  _time: 2026-07-19 21:44:56.407228385 Z
+  _time: 2026-07-19 22:44:17.076172177 Z
   _version: 0.4.0/0.31.0/
-  branch: renovate/typescript-7.x
-  details: The pull request objectionary/eo-vscode#196 has been opened by @renovate[bot].
-  event_id: 11528236076
+  branch: renovate/davidanson-markdownlint-cli2-action-24.x
+  details: The pull request objectionary/reducing-programs-to-objects#73 has been
+    opened by @renovate[bot].
+  event_id: 11974777711
   event_type: PullRequestEvent
   is_human: 0
-  issue: 196
-  repository: 551486781
+  issue: 73
+  repository: 493235807
   what: pull-was-opened
-  when: 2026-07-08 18:56:54.000000000 Z
+  when: 2026-07-18 20:49:34.000000000 Z
   where: github
   who: 29139614
 - _id: 42
-  _time: 2026-07-19 21:44:56.429472369 Z
+  _time: 2026-07-19 22:44:17.508524896 Z
   _version: 0.4.0/0.31.0/
-  branch: renovate/node-24.x-lockfile
-  details: The pull request objectionary/eo-vscode#195 has been opened by @renovate[bot].
-  event_id: 11500922079
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 195
-  repository: 551486781
-  what: pull-was-opened
-  when: 2026-07-08 08:38:54.000000000 Z
-  where: github
-  who: 29139614
-- _id: 43
-  _time: 2026-07-19 21:44:56.444579931 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/typedoc-0.x-lockfile
-  details: The pull request objectionary/eo-vscode#194 has been opened by @renovate[bot].
-  event_id: 11384563534
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 194
-  repository: 551486781
-  what: pull-was-opened
-  when: 2026-07-06 01:53:33.000000000 Z
-  where: github
-  who: 29139614
-- _id: 44
-  _time: 2026-07-19 21:44:56.454776226 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/davidanson-markdownlint-cli2-action-24.x
-  details: The pull request objectionary/eo-vscode#193 has been opened by @renovate[bot].
-  event_id: 11343675779
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 193
-  repository: 551486781
-  what: pull-was-opened
-  when: 2026-07-04 01:01:58.000000000 Z
-  where: github
-  who: 29139614
-- _id: 45
-  _time: 2026-07-19 21:44:56.468035333 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/eo-vscode#192 has been opened by @renovate[bot].
-  event_id: 11193953642
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 192
-  repository: 551486781
-  what: pull-was-opened
-  when: 2026-06-30 23:08:53.000000000 Z
-  where: github
-  who: 29139614
-- _id: 46
-  _time: 2026-07-19 21:44:56.474722775 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/typescript-eslint-monorepo
-  details: The pull request objectionary/eo-vscode#191 has been opened by @renovate[bot].
-  event_id: 11132236683
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 191
-  repository: 551486781
-  what: pull-was-opened
-  when: 2026-06-29 18:34:16.000000000 Z
-  where: github
-  who: 29139614
-- _id: 47
-  _time: 2026-07-19 21:44:56.495095788 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/js-yaml-4.x-lockfile
-  details: The pull request objectionary/eo-vscode#190 has been opened by @renovate[bot].
-  event_id: 11046129941
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 190
-  repository: 551486781
-  what: pull-was-opened
-  when: 2026-06-26 23:18:02.000000000 Z
-  where: github
-  who: 29139614
-- _id: 48
-  _time: 2026-07-19 21:44:56.729281812 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 519246071
-  what: labels-were-scanned
-  where: github
-- _id: 49
-  _time: 2026-07-19 21:44:56.734831041 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 499536612
-  what: labels-were-scanned
-  where: github
-- _id: 50
-  _time: 2026-07-19 21:44:56.740111739 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 551486781
-  what: labels-were-scanned
-  where: github
-- _id: 51
-  _time: 2026-07-19 21:44:56.745327396 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 840332960
-  what: labels-were-scanned
-  where: github
-- _id: 52
-  _time: 2026-07-19 21:44:56.750754918 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 889819508
-  what: labels-were-scanned
-  where: github
-- _id: 53
-  _time: 2026-07-19 21:44:56.756676361 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1239730762
-  what: labels-were-scanned
-  where: github
-- _id: 54
-  _time: 2026-07-19 21:44:56.761995971 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574534248
-  what: labels-were-scanned
-  where: github
-- _id: 55
-  _time: 2026-07-19 21:44:56.767542435 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 73056727
-  what: labels-were-scanned
-  where: github
-- _id: 56
-  _time: 2026-07-19 21:44:56.773356438 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 546194972
-  what: labels-were-scanned
-  where: github
-- _id: 57
-  _time: 2026-07-19 21:44:56.779776500 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 955159947
-  what: labels-were-scanned
-  where: github
-- _id: 58
-  _time: 2026-07-19 21:44:56.785974429 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 510082372
-  what: labels-were-scanned
-  where: github
-- _id: 59
-  _time: 2026-07-19 21:44:56.793530530 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574459304
-  what: labels-were-scanned
-  where: github
-- _id: 60
-  _time: 2026-07-19 21:44:56.798607428 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 489321585
-  what: labels-were-scanned
-  where: github
-- _id: 61
-  _time: 2026-07-19 21:44:56.803861356 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 482612876
-  what: labels-were-scanned
-  where: github
-- _id: 62
-  _time: 2026-07-19 21:44:56.809225410 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 570457023
-  what: labels-were-scanned
-  where: github
-- _id: 63
-  _time: 2026-07-19 21:44:56.814582741 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 784310467
-  what: labels-were-scanned
-  where: github
-- _id: 64
-  _time: 2026-07-19 21:44:56.820025380 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 492899189
-  what: labels-were-scanned
-  where: github
-- _id: 65
-  _time: 2026-07-19 21:44:56.827111626 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1049128198
-  what: labels-were-scanned
-  where: github
-- _id: 66
-  _time: 2026-07-19 21:44:56.832764107 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 501942888
-  what: labels-were-scanned
-  where: github
-- _id: 67
-  _time: 2026-07-19 21:44:56.838592707 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 970961472
-  what: labels-were-scanned
-  where: github
-- _id: 68
-  _time: 2026-07-19 21:44:56.844620728 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 501259435
-  what: labels-were-scanned
-  where: github
-- _id: 69
-  _time: 2026-07-19 21:44:56.850969027 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 13623548
-  what: labels-were-scanned
-  where: github
-- _id: 70
-  _time: 2026-07-19 21:44:56.857670825 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1219806055
-  what: labels-were-scanned
-  where: github
-- _id: 71
-  _time: 2026-07-19 21:44:56.864373496 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 396732517
-  what: labels-were-scanned
-  where: github
-- _id: 72
-  _time: 2026-07-19 21:44:56.871219583 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
+  commit: cb7136a1643f7789d528344316b1295fa6bbd158
+  default_branch: master
+  details: 'A new Git push #36972246244 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14682629518
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36972246244
+  ref: refs/heads/master
   repository: 493235807
-  what: labels-were-scanned
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-10 08:52:44.000000000 Z
   where: github
-- _id: 73
-  _time: 2026-07-19 21:44:56.878052255 Z
+  who: 526301
+- _id: 43
+  _time: 2026-07-19 22:44:18.028430197 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 543969974
-  what: labels-were-scanned
+  commit: 48cbefa22bd4eedc59a7dabe10d96b7b9bce079b
+  default_branch: master
+  details: 'A new Git push #36956351392 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14666828730
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36956351392
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-10 03:20:59.000000000 Z
   where: github
-- _id: 74
-  _time: 2026-07-19 21:44:56.886513314 Z
+  who: 526301
+- _id: 44
+  _time: 2026-07-19 22:44:18.317660534 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 1037933692
-  what: labels-were-scanned
+  commit: 5389f58e15c865b625910f04f940dbb787d44052
+  default_branch: master
+  details: 'A new Git push #36940565125 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14651081517
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36940565125
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 20:42:50.000000000 Z
   where: github
-- _id: 75
-  _time: 2026-07-19 21:44:56.893340997 Z
+  who: 526301
+- _id: 45
+  _time: 2026-07-19 22:44:18.605194771 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 977982682
-  what: labels-were-scanned
+  commit: 9249e621c7a41c53ddd8b9b7687c011ea7e29030
+  default_branch: master
+  details: 'A new Git push #36935668257 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14646191927
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36935668257
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 19:09:00.000000000 Z
   where: github
-- _id: 76
-  _time: 2026-07-19 21:44:56.900383070 Z
+  who: 526301
+- _id: 46
+  _time: 2026-07-19 22:44:18.855958517 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 731516758
-  what: labels-were-scanned
+  commit: b2f1742f54b43338a4c8af1b010588386b1c78d8
+  default_branch: master
+  details: 'A new Git push #36932316537 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14642853252
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36932316537
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 18:08:31.000000000 Z
   where: github
-- _id: 77
-  _time: 2026-07-19 21:44:56.907370741 Z
+  who: 526301
+- _id: 47
+  _time: 2026-07-19 22:44:19.162795282 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 490221501
-  what: labels-were-scanned
+  commit: 2d281398e970b565f19de677b1804a13d5febf77
+  default_branch: master
+  details: 'A new Git push #36931302839 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14641842014
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36931302839
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 17:50:35.000000000 Z
   where: github
-- _id: 78
-  _time: 2026-07-19 21:44:56.914439213 Z
+  who: 526301
+- _id: 48
+  _time: 2026-07-19 22:44:19.418452113 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 531151981
-  what: labels-were-scanned
+  commit: fd448592a18a9f20c6deea3d9373235f6ffd29b0
+  default_branch: master
+  details: 'A new Git push #36931215660 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14641755166
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36931215660
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 17:48:58.000000000 Z
   where: github
-- _id: 79
-  _time: 2026-07-19 21:44:56.921623020 Z
+  who: 526301
+- _id: 49
+  _time: 2026-07-19 22:44:19.653838289 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 568705267
-  what: labels-were-scanned
+  commit: f99f131175377e58d3a79f692a028bbfb693226d
+  default_branch: master
+  details: 'A new Git push #36931186107 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14641725836
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36931186107
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 17:48:25.000000000 Z
   where: github
-- _id: 80
-  _time: 2026-07-19 21:44:56.928894441 Z
+  who: 526301
+- _id: 50
+  _time: 2026-07-19 22:44:19.961565448 Z
   _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 552394123
-  what: labels-were-scanned
+  commit: 90e4a16065ba5e2f830a7bb998cb70380e424940
+  default_branch: master
+  details: 'A new Git push #36917151874 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14627705151
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36917151874
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 13:56:55.000000000 Z
   where: github
-- _id: 81
-  _time: 2026-07-19 21:44:56.936358601 Z
+  who: 526301
+- _id: 51
+  _time: 2026-07-19 22:44:20.267442493 Z
+  _version: 0.4.0/0.31.0/
+  commit: 602d940c319f7d0716e7c40a99320c38e6a21b60
+  default_branch: master
+  details: 'A new Git push #36914689608 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14625244587
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36914689608
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 13:18:09.000000000 Z
+  where: github
+  who: 526301
+- _id: 52
+  _time: 2026-07-19 22:44:20.525179438 Z
+  _version: 0.4.0/0.31.0/
+  commit: 528e71104954cef0415e97439501137bab566b09
+  default_branch: master
+  details: 'A new Git push #36913514139 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14624070163
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36913514139
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 12:58:12.000000000 Z
+  where: github
+  who: 526301
+- _id: 53
+  _time: 2026-07-19 22:44:20.772163188 Z
+  _version: 0.4.0/0.31.0/
+  commit: e81279a24bedeb4889f9c2d9a2cfabfe37e513cf
+  default_branch: master
+  details: 'A new Git push #36913122816 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14623678973
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36913122816
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 12:51:09.000000000 Z
+  where: github
+  who: 526301
+- _id: 54
+  _time: 2026-07-19 22:44:21.105502529 Z
+  _version: 0.4.0/0.31.0/
+  commit: 07ac18971b47a9549c2bbdc4f433b813d0e4649e
+  default_branch: master
+  details: 'A new Git push #36913052291 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14623608719
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36913052291
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 12:49:51.000000000 Z
+  where: github
+  who: 526301
+- _id: 55
+  _time: 2026-07-19 22:44:21.407778733 Z
+  _version: 0.4.0/0.31.0/
+  commit: 8d6b4dbd0c797f2aefd35ae6cda5559ed64b8e24
+  default_branch: master
+  details: 'A new Git push #36912737680 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14623294355
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36912737680
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 12:44:02.000000000 Z
+  where: github
+  who: 526301
+- _id: 56
+  _time: 2026-07-19 22:44:21.708354059 Z
+  _version: 0.4.0/0.31.0/
+  commit: 9db2dd34e28c98293790a8e6142255d0539d6360
+  default_branch: master
+  details: 'A new Git push #36911790801 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14622348899
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36911790801
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 12:26:53.000000000 Z
+  where: github
+  who: 526301
+- _id: 57
+  _time: 2026-07-19 22:44:21.989337062 Z
+  _version: 0.4.0/0.31.0/
+  commit: 680995e7fd7f9fad5e6472d7558194e4338a3229
+  default_branch: master
+  details: 'A new Git push #36911655768 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14622213986
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36911655768
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 12:24:37.000000000 Z
+  where: github
+  who: 526301
+- _id: 58
+  _time: 2026-07-19 22:44:22.412777699 Z
+  _version: 0.4.0/0.31.0/
+  commit: 8320ebe4d602550cfc5722307863863cf3e534a6
+  default_branch: master
+  details: 'A new Git push #36910038275 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14620598220
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36910038275
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 11:57:55.000000000 Z
+  where: github
+  who: 526301
+- _id: 59
+  _time: 2026-07-19 22:44:22.724333778 Z
+  _version: 0.4.0/0.31.0/
+  commit: 61ff7e5dae81e7d212d7b9fef01d3ac53b7b36f2
+  default_branch: master
+  details: 'A new Git push #36909768569 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14620328934
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36909768569
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 11:53:11.000000000 Z
+  where: github
+  who: 526301
+- _id: 60
+  _time: 2026-07-19 22:44:22.955616387 Z
+  _version: 0.4.0/0.31.0/
+  commit: 754e6e8c80bb93b10628a16a29cca33d37b8dfd4
+  default_branch: master
+  details: 'A new Git push #36904168173 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14614737694
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36904168173
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 10:13:57.000000000 Z
+  where: github
+  who: 526301
+- _id: 61
+  _time: 2026-07-19 22:44:23.210025674 Z
+  _version: 0.4.0/0.31.0/
+  commit: 5cc821519a085845a59d9c99956c23797bae92a6
+  default_branch: master
+  details: 'A new Git push #36902291058 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14612862621
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36902291058
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 09:43:20.000000000 Z
+  where: github
+  who: 526301
+- _id: 62
+  _time: 2026-07-19 22:44:23.531213293 Z
+  _version: 0.4.0/0.31.0/
+  commit: f5dd466313d1aadfbb5add662b39be71464a6673
+  default_branch: master
+  details: 'A new Git push #36902234988 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14612806995
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36902234988
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 09:42:25.000000000 Z
+  where: github
+  who: 526301
+- _id: 63
+  _time: 2026-07-19 22:44:23.791220456 Z
+  _version: 0.4.0/0.31.0/
+  commit: 81d98fe947b9dc13b8663a0d2a33ff7bb1923977
+  default_branch: master
+  details: 'A new Git push #36901574118 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14612148014
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36901574118
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-09 09:31:41.000000000 Z
+  where: github
+  who: 526301
+- _id: 64
+  _time: 2026-07-19 22:44:24.945144654 Z
+  _version: 0.4.0/0.31.0/
+  commit: 0cb650cd2a32caaef1b795f7ac63c490fc84f426
+  default_branch: master
+  details: 'A new Git push #36856243520 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14566930290
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36856243520
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-08 16:33:04.000000000 Z
+  where: github
+  who: 526301
+- _id: 65
+  _time: 2026-07-19 22:44:25.287893506 Z
+  _version: 0.4.0/0.31.0/
+  commit: 01236f1d1ee8b31ce249166f1d7f1922ff36d891
+  default_branch: master
+  details: 'A new Git push #36855128457 has arrived to objectionary/reducing-programs-to-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 14565816569
+  event_type: PushEvent
+  is_human: 1
+  push_id: 36855128457
+  ref: refs/heads/master
+  repository: 493235807
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-08 16:13:35.000000000 Z
+  where: github
+  who: 526301
+- _id: 66
+  _time: 2026-07-19 22:44:25.987075786 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 671896902
   what: labels-were-scanned
   where: github
-- _id: 82
-  _time: 2026-07-19 21:44:56.943824484 Z
+- _id: 67
+  _time: 2026-07-19 22:44:25.996914937 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 721146770
+  repository: 489321585
   what: labels-were-scanned
   where: github
-- _id: 83
-  _time: 2026-07-19 21:44:56.951285808 Z
+- _id: 68
+  _time: 2026-07-19 22:44:26.005706162 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 970961472
+  what: labels-were-scanned
+  where: github
+- _id: 69
+  _time: 2026-07-19 22:44:26.012330785 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 492899189
+  what: labels-were-scanned
+  where: github
+- _id: 70
+  _time: 2026-07-19 22:44:26.018875808 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 499536612
+  what: labels-were-scanned
+  where: github
+- _id: 71
+  _time: 2026-07-19 22:44:26.025033739 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 568705267
+  what: labels-were-scanned
+  where: github
+- _id: 72
+  _time: 2026-07-19 22:44:26.031196430 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 396732517
+  what: labels-were-scanned
+  where: github
+- _id: 73
+  _time: 2026-07-19 22:44:26.037935575 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501942888
+  what: labels-were-scanned
+  where: github
+- _id: 74
+  _time: 2026-07-19 22:44:26.044216827 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574534248
+  what: labels-were-scanned
+  where: github
+- _id: 75
+  _time: 2026-07-19 22:44:26.050394845 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 519299365
   what: labels-were-scanned
   where: github
+- _id: 76
+  _time: 2026-07-19 22:44:26.056879777 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1219806055
+  what: labels-were-scanned
+  where: github
+- _id: 77
+  _time: 2026-07-19 22:44:26.063561215 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 13623548
+  what: labels-were-scanned
+  where: github
+- _id: 78
+  _time: 2026-07-19 22:44:26.070910710 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 721146770
+  what: labels-were-scanned
+  where: github
+- _id: 79
+  _time: 2026-07-19 22:44:26.077890465 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 955159947
+  what: labels-were-scanned
+  where: github
+- _id: 80
+  _time: 2026-07-19 22:44:26.083699014 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 570457023
+  what: labels-were-scanned
+  where: github
+- _id: 81
+  _time: 2026-07-19 22:44:26.089630603 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 731516758
+  what: labels-were-scanned
+  where: github
+- _id: 82
+  _time: 2026-07-19 22:44:26.095646890 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 510082372
+  what: labels-were-scanned
+  where: github
+- _id: 83
+  _time: 2026-07-19 22:44:26.101677804 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 531151981
+  what: labels-were-scanned
+  where: github
 - _id: 84
-  _time: 2026-07-19 21:44:56.959015163 Z
+  _time: 2026-07-19 22:44:26.107873757 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 889819508
+  what: labels-were-scanned
+  where: github
+- _id: 85
+  _time: 2026-07-19 22:44:26.114130973 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 73056727
+  what: labels-were-scanned
+  where: github
+- _id: 86
+  _time: 2026-07-19 22:44:26.123453860 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 447446664
   what: labels-were-scanned
   where: github
-- _id: 85
-  _time: 2026-07-19 21:44:56.967101924 Z
+- _id: 87
+  _time: 2026-07-19 22:44:26.133135928 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 490157985
+  repository: 840332960
   what: labels-were-scanned
   where: github
-- _id: 86
-  _time: 2026-07-19 21:44:56.975053323 Z
+- _id: 88
+  _time: 2026-07-19 22:44:26.140490553 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 1260338737
   what: labels-were-scanned
   where: github
-- _id: 87
-  _time: 2026-07-19 21:47:36.149712945 Z
+- _id: 89
+  _time: 2026-07-19 22:44:26.148158562 Z
   _version: 0.4.0/0.31.0/
-  average_issue_lifetime: 3123905.376119403
-  average_pull_lifetime: 405105.21964285715
-  since: 2026-06-21 21:44:56.981932993 Z
+  latest: 0
+  repository: 1239730762
+  what: labels-were-scanned
+  where: github
+- _id: 90
+  _time: 2026-07-19 22:44:26.155615898 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574459304
+  what: labels-were-scanned
+  where: github
+- _id: 91
+  _time: 2026-07-19 22:44:26.163506883 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 482612876
+  what: labels-were-scanned
+  where: github
+- _id: 92
+  _time: 2026-07-19 22:44:26.171060229 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490221501
+  what: labels-were-scanned
+  where: github
+- _id: 93
+  _time: 2026-07-19 22:44:26.181857928 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1049128198
+  what: labels-were-scanned
+  where: github
+- _id: 94
+  _time: 2026-07-19 22:44:26.191703461 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 543969974
+  what: labels-were-scanned
+  where: github
+- _id: 95
+  _time: 2026-07-19 22:44:26.200572191 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490157985
+  what: labels-were-scanned
+  where: github
+- _id: 96
+  _time: 2026-07-19 22:44:26.208022614 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 552394123
+  what: labels-were-scanned
+  where: github
+- _id: 97
+  _time: 2026-07-19 22:44:26.215285968 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 551486781
+  what: labels-were-scanned
+  where: github
+- _id: 98
+  _time: 2026-07-19 22:44:26.222658305 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 784310467
+  what: labels-were-scanned
+  where: github
+- _id: 99
+  _time: 2026-07-19 22:44:26.230090495 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 519246071
+  what: labels-were-scanned
+  where: github
+- _id: 100
+  _time: 2026-07-19 22:44:26.237785795 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 493235807
+  what: labels-were-scanned
+  where: github
+- _id: 101
+  _time: 2026-07-19 22:44:26.249103274 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 1037933692
+  what: labels-were-scanned
+  where: github
+- _id: 102
+  _time: 2026-07-19 22:44:26.259797862 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501259435
+  what: labels-were-scanned
+  where: github
+- _id: 103
+  _time: 2026-07-19 22:44:26.268781987 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 546194972
+  what: labels-were-scanned
+  where: github
+- _id: 104
+  _time: 2026-07-19 22:44:26.277481270 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 977982682
+  what: labels-were-scanned
+  where: github
+- _id: 105
+  _time: 2026-07-19 22:44:41.876556161 Z
+  _version: 0.4.0/0.31.0/
+  average_release_commits_size: 9.7
+  average_release_hoc_size: 424.93333333333334
+  since: 2026-06-21 22:44:26.285425515 Z
   what: quality-of-service
-  when: 2026-07-19 21:44:56.981903558 Z
-- _id: 88
-  _time: 2026-07-19 21:47:56.981275052 Z
+  when: 2026-07-19 22:44:26.285401520 Z
+- _id: 106
+  _time: 2026-07-19 22:47:26.290987087 Z
   _version: 0.4.0/0.31.0/
-  since: 2026-06-21 21:47:56.981388945 Z
+  since: 2026-06-21 22:47:26.291101741 Z
   what: quantity-of-deliverables
-  when: 2026-07-19 21:47:56.981360942 Z
+  when: 2026-07-19 22:47:26.291075252 Z
